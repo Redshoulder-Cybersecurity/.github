@@ -77,9 +77,9 @@ We build automated detection rules, security assessment tooling, and open-source
 
 We collaborate with security researchers, businesses, and software engineers committed to building a safer digital environment.
 
-* 🌐 **Website:** [redshoulder.co.zw](https://redshoulder.co.zw) *(Coming Soon)*
-* 📧 **Security / Vulnerability Disclosures:** `security@redshoulder.co.zw`
-* 💼 **Commercial Inquiries:** `hello@redshoulder.co.zw`
+* 🌐 **Website:** [redshoulder.co.za](https://redshoulder.co.za)
+* 📧 **Security / Vulnerability Disclosures:** `security@redshoulder.co.za`
+* 💼 **Commercial Inquiries:** `sales@redshoulder.co.za`
 * 🔒 **PGP Key:** `4096R / 0xREDSHOULDER2026`
 
 <div align="center">
