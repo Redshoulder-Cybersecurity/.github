@@ -33,28 +33,7 @@ We build automated detection rules, security assessment tooling, and open-source
 
 ---
 
-### ⚙️ Core Technical Pillars
 
-```
-                  ┌─────────────────────────────────────────┐
-                  │          REDSHOULDER SECURITY           │
-                  └────────────────────┬────────────────────┘
-                                       │
-      ┌────────────────────────────────┼────────────────────────────────┐
-      │                                │                                │
-      ▼                                ▼                                ▼
-┌──────────────┐              ┌─────────────────┐              ┌────────────────┐
-│  OFFENSIVE   │              │    DEFENSIVE    │              │   GOVERNANCE   │
-│  ENGINEERING │              │   & TELEMETRY   │              │   & COMPLIANCE │
-├──────────────┤              ├─────────────────┤              ├────────────────┤
-│ • Penetration│              │ • Sigma Rules   │              │ • POTRAZ Framework│
-│   Testing    │              │ • Threat Hunting│              │ • ISO 27001    │
-│ • Vulnerability│            │ • Incident Logs │              │ • Data Protection│
-│   Auditing   │              │ • SIEM Pipeline │              │   Automations  │
-└──────────────┘              └─────────────────┘              └────────────────┘
-```
-
----
 
 ### 🚀 Public Open-Source Ecosystem
 
