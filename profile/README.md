@@ -28,7 +28,7 @@
 
 **RedShoulder** is a specialized cybersecurity and data privacy engineering startup. We bridge the gap between high-end offensive security and practical cyber defense for growing businesses, Small to Medium Enterprises (SMEs), and regulated entities. 
 
-We build automated detection rules, security assessment tooling, and open-source data protection compliance engines designed to keep systems secure and compliant under evolving regulatory frameworks (including the **Zimbabwe Cyber and Data Protection Act**).
+We build automated detection rules, security assessment tooling, and open-source data protection compliance engines designed to keep systems secure and compliant under evolving regulatory frameworks.
 
 ---
 
