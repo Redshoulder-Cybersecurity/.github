@@ -15,10 +15,11 @@
 
 ---
 
-[![Security - Compliance](https://img.shields.io/badge/POTRAZ-S.I._155_Compliant-00ACC1?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![Status - Operational](https://img.shields.io/badge/SOC_Operations-ACTIVE-00E676?style=for-the-badge&logo=prometheus&logoColor=white)](#)
-[![Language - Python/Go/Rust](https://img.shields.io/badge/Stack-Python_%7C_Go_%7C_Rust-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white)](#)
-[![License - Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-FFB300?style=for-the-badge&logo=apache&logoColor=white)](#)
+[![Threat Intelligence](https://img.shields.io/badge/Service-Threat_Intelligence-007ACC?style=for-the-badge&logo=spyder&logoColor=white)](#-core-security-services)
+[![AI SOC](https://img.shields.io/badge/Service-24/7_Managed_SOC-E10098?style=for-the-badge&logo=shield&logoColor=white)](#-core-security-services)
+[![Penetration Testing](https://img.shields.io/badge/Service-Penetration_Testing-D14836?style=for-the-badge&logo=bugcrowd&logoColor=white)](#-core-security-services)
+[![Data Protection](https://img.shields.io/badge/Service-POTRAZ_Compliance-239120?style=for-the-badge&logo=lock&logoColor=white)](#-core-security-services)
+[![Vulnerability Management](https://img.shields.io/badge/Service-Vulnerability_Mgmt-4169E1?style=for-the-badge&logo=qualys&logoColor=white)](#-core-security-services)
 
 </div>
 
